@@ -1,5 +1,5 @@
 ---
-title:"My first post to test github pages"
+title: "My first post to test github pages"
 date: 2025-05-30
 ---
 
