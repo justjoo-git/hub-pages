@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my github blog!
 ---
 
 Hello this is my first blog on github. 
